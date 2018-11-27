@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Floricultura</string>
+    <string name="hintPreco">Preço</string>
+    <string name="hintTipo">Tipo</string>
+    <string name="hintEstacao">Estação</string>
+    <string name="hintCor">Cor</string>
+    <string name="excluir">Excluir</string>
+    <string name="alterar">Alterar</string>
+    <string name="incluir">Incluir</string>
+    <string name="hintDuracao">Duração</string>
+    <string name="hintCodigo">Código</string>
+    <string name="hintNome">Nome</string>
+    <string name="consultar">Consultar</string>
+    <string name="Cadastro">Cadastro</string>
+    <string name="listagem">Listagem</string>
+    <string name="pesquisa">Pesquisa</string>
+    <string name="btnPesquisar">Pesquisar</string>
+</resources>
